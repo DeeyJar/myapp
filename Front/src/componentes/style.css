@@ -1,0 +1,99 @@
+.foto{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navbar{
+    font-size: 25px;
+}
+
+.lista{
+    list-style: none;
+    font-size:20px;
+    padding: 5px;
+}
+
+.photo{
+    margin-bottom: 20px;
+    text-align: center;
+    color:black;
+}
+
+ .contenedorFotos {
+        display: flex; 
+        flex-direction: column; 
+        align-items: center;
+        padding: 10px;
+    }
+
+ .fotoCity {
+        margin: 10px;
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+    }
+
+ 
+.textoFoto {
+        list-style: none;
+        background-color: green; 
+        width: 100%; 
+        color: white;
+    }   
+
+.barcelona{
+    width: 45%;
+    height: 10%;
+}
+
+.Itinerary{
+    margin: 0 20%;
+    padding: 10px;
+}
+
+.nombre{
+    padding: 10px;
+    }
+
+
+.imagen{
+    border-radius: 80px;
+    
+}
+
+.Info{
+    margin: 0;
+    padding: 15px;
+}
+
+.Rating{
+    display: flex;
+    justify-content: space-between;
+}
+
+.View{
+    background-color:#F8E3E3;
+}
+
+.login{
+    border : #7093F1 2px solid;
+    padding: 10px;
+    background-color: #DFE2E9;
+}
+
+.loginFoto{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-style: oblique;
+}
+
+.tipoletra{
+    font-style: oblique;
+}
+
+.fondonavbar{
+    background-color:#FB7B6C;
+}
